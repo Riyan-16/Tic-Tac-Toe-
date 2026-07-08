@@ -1,6 +1,6 @@
 # Tic-Tac-Toe AI using Minimax Algorithm
 
-## Overview
+## 📝Overview
 
 This project is a graphical Tic-Tac-Toe game developed using Python and Tkinter. It features an AI opponent that uses the Minimax algorithm to make optimal moves, making it impossible for the player to defeat the computer.
 
@@ -8,7 +8,7 @@ The project demonstrates concepts of Artificial Intelligence, Game Theory, and G
 
 ---
 
-## Features
+## ✨Features
 
 - Interactive graphical user interface using Tkinter
 - Human vs Computer gameplay
@@ -20,7 +20,7 @@ The project demonstrates concepts of Artificial Intelligence, Game Theory, and G
 
 ---
 
-## Technologies Used
+## 🛠️Technologies Used
 
 - Python (version- 3.14.6)
 - Tkinter
@@ -28,7 +28,7 @@ The project demonstrates concepts of Artificial Intelligence, Game Theory, and G
 
 ---
 
-## Project Structure
+## 🔗Project Structure
 
 ```
 Tic-Tac-Toe/
@@ -39,7 +39,7 @@ Tic-Tac-Toe/
 
 ---
 
-## How to Run
+## 🖥️ How to Run
 
 1. Clone the repository
 
@@ -61,13 +61,13 @@ python main.py
 
 ---
 
-## How the AI Works
+## 🤖 How the AI Works
 
 The computer uses the Minimax Algorithm to evaluate all possible future game states before making a move producing optimal moves to avoid losing.
 
 ---
 
-## Future Improvements
+## 📊Future Improvements
 
 - Difficulty Levels
 - Player vs Player Mode
@@ -78,6 +78,6 @@ The computer uses the Minimax Algorithm to evaluate all possible future game sta
 
 ---
 
-## Author
+## 🖋️Author
 
 Riyan
