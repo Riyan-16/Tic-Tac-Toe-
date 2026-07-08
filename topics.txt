@@ -1,0 +1,13 @@
+✅python
+
+✅tkinter
+
+✅tic-tac-toe
+
+✅artificial-intelligence
+
+✅minimax
+
+✅game-development
+
+✅python-project
